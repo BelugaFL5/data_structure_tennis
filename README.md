@@ -1,8 +1,8 @@
-プッシュ~ プッシュ~  onto the stack,
-Elements come, never look back!
-ポップ~ ポップ~ remove with care,
-Last in, first out, まほうhere
-モエ~ モエ~ キュン! (Moe~ moe~ kyun!)
+	プッシュ~ プッシュ~  onto the stack,
+	Elements come, never look back!
+	ポップ~ ポップ~ remove with care,
+	Last in, first out, まほうhere
+	モエ~ モエ~ キュン! (Moe~ moe~ kyun!)
 
 
 
